@@ -1,0 +1,15 @@
+﻿No;Outlook;Temperature;Humidity;Windy;Play
+1;sunny;hot;high;FALSE;no
+2;sunny;hot;high;TRUE;no
+3;cloudy;hot;high;FALSE;yes
+4;rainy;mild;high;FALSE;yes
+5;rainy;cool;normal;FALSE;yes
+6;rainy;cool;normal;TRUE;yes
+7;cloudy;cool;normal;TRUE;yes
+8;sunny;mild;high;FALSE;no
+9;sunny;cool;normal;FALSE;yes
+10;rainy;mild;normal;FALSE;yes
+11;sunny;mild;normal;TRUE;yes
+12;cloudy;mild;high;TRUE;yes
+13;cloudy;hot;normal;FALSE;yes
+14;rainy;mild;high;TRUE;no
